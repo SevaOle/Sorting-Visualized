@@ -1,4 +1,4 @@
-# Sorting-Visualized
+# Sorting Visualized
 Python application that allows users to create and visualize custom sorting algorithms.
 
 Run main.py to start the application.
